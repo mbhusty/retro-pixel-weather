@@ -1,0 +1,55 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0,
+        "WEATHER_ICON_KEY": 2
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "mbhusty@gmail.com",
+    "longName": "Retro Pixel Weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cloud2.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/sun2.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/rain2.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/snow2.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "fonts/font (1).ttf",
+                "name": "MINECRAFT_26",
+                "type": "font"
+            },
+            {
+                "file": "fonts/font (1).ttf",
+                "name": "MINECRAFT_34",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Pixel Weather",
+    "uuid": "1e528fba-5ede-46b6-a9cb-3c0a972a6ad7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
